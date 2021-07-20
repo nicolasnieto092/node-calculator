@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+.DS_Store
+.idea
+.vscode
+
+package-lock.json
+
+#Builded js files
+*.js
+*.map
+!app.spec.js
